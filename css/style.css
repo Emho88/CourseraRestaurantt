@@ -3,6 +3,7 @@ body{
   color: #fff;
   background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
+  margin:0;
 }
 
 /**HEADER**/
@@ -13,8 +14,7 @@ body{
 }
 
 #logo-img{
-  background: url('../images/restaurant-logo-large.png');
+  background: url('C:/Coursera/restaurant-logo-large.png');
   width: 150px;
   height: 150px;
-  margin: 10px, 15px, 10px, 0;
-}
+  margin: 10px, 15px, 10px, 0px;
