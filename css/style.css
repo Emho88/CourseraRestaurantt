@@ -111,11 +111,11 @@ line-height: .75;
 }
 
 #menu-tile {
-  background: url('C:/Coursera/images/menu-tile.jpg') no-repeat;
+  background: url('C:/Coursera/menu-tile.jpg') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('C:/Coursera/images/specials-tile.jpg') no-repeat;
+  background: url('C:/Coursera/specials-tile.jpg') no-repeat;
   background-position: center;
 }
 
@@ -166,7 +166,7 @@ line-height: .75;
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .container .jumbotron {
-     background: url('../images/jumbotron_768.jpg') no-repeat;
+     background: url('C:/Coursera/jumbotron_768.jpg') no-repeat;
      height: 432px;
    }
 }
